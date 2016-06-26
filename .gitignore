@@ -1,0 +1,12 @@
+/public/uploads/*
+/bootstrap/compiled.php
+/vendor
+/config/local/*
+composer.lock
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+.idea/
+/nbproject
+/app/config/local/
